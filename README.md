@@ -25,4 +25,5 @@ Design the layout for the detail activity so the different elements
 display in a sensible way. Implement the JSON parsing in JsonUtils so it
 produces a Sandwich Object that can be used to populate the UI that you designed.
 
-https://user-images.githubusercontent.com/16857085/60379932-fc213880-9a44-11e9-9875-7ba66a853a69.png
+
+https://github.com/FawazMele/Udacity-SandwichClub/issues/1#issue-462266384
