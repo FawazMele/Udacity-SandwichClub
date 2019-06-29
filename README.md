@@ -26,4 +26,4 @@ display in a sensible way. Implement the JSON parsing in JsonUtils so it
 produces a Sandwich Object that can be used to populate the UI that you designed.
 
 
-https://github.com/FawazMele/Udacity-SandwichClub/issues/1#issue-462266384
+<img width="306" alt="Screen Shot 1440-10-26 at 8 01 26 AM" src="https://user-images.githubusercontent.com/16857085/60380005-65557b80-9a46-11e9-94e0-24a94aec64a5.png">
